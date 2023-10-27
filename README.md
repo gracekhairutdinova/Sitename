@@ -1,2 +1,2 @@
 # Sitename
-my layout himl&amp;css
+my layout html&amp;css
